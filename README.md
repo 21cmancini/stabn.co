@@ -11,4 +11,13 @@
   * `git commit -m "this is what I did"`
 4. **Push** your files to github
   * `git push -u origin master`
-  
+
+
+## Git Commands
+* `git status` = this lets you see which changes have been made
+* `git pull` = pull down any changes. Use this command to update your repository.
+
+## Terminal Commands
+* `cd css` = change directory
+* `ls` = list all files
+* `cd ..` = go back on directory
