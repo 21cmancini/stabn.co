@@ -18,6 +18,7 @@
 * `git pull` = pull down any changes. Use this command to update your repository.
 
 ## Terminal Commands
-* `cd css` = change directory
-* `ls` = list all files
-* `cd ..` = go back on directory
+* `cd css` = change directory into the css folder. Replace 'css' with any other folder name
+* `cd ..` = go back one directory
+* `ls` = list all files in the current directory
+* `ls -A` = list EVERYTHING even the hidden files
